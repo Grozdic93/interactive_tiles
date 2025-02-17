@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "@tweenjs/tween.js": "^25.0.0",
-    "postprocessing": "^6.36.7",
-    "three": "^0.173.0",
-    "three-effectcomposer-es6": "^0.0.4"
+    "three": "^0.173.0"
+   
   }
 }

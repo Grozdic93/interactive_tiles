@@ -25,7 +25,6 @@ This project features an interactive grid built with Three.js. The tiles change 
    ```sh
    npm run dev
    ```
-   Alternatively, you can open the `index.html` file directly in a browser.
 
 ## Usage
 
